@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/esb-core/esb-core.iml" filepath="$PROJECT_DIR$/esb-core/esb-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gloriosasuperba.iml" filepath="$PROJECT_DIR$/.idea/modules/gloriosasuperba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gloriosasuperba-build.iml" filepath="$PROJECT_DIR$/.idea/modules/gloriosasuperba-build.iml" />
+    </modules>
+  </component>
+</project>
